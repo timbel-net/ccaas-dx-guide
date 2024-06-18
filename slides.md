@@ -87,7 +87,7 @@ transition: slide-up
 
 ---
 layout: image-x
-image: image.png
+image: https://raw.githubusercontent.com/timbel-net/ccaas-dx-guide/main/public/image.png
 transition: fade-out
 ---
 # README.md
@@ -201,14 +201,14 @@ transition: slide-up
 
 ## `feats-*` or `fixed-*` 두가지 형식만 가능
 
-![](image-2.png)
+![](https://raw.githubusercontent.com/timbel-net/ccaas-dx-guide/main/public/image-2.png)
 
 
 
 
 ---
 layout: image
-image: image-1.png
+image: https://raw.githubusercontent.com/timbel-net/ccaas-dx-guide/main/public/image-1.png
 transition: slide-up
 ---
 <h1 class="text-shadow">CI/CD</h1>
@@ -217,7 +217,7 @@ transition: slide-up
 
 ---
 layout: image
-image: image-4.png
+image: https://raw.githubusercontent.com/timbel-net/ccaas-dx-guide/main/public/image-4.png
 transition: slide-up
 ---
 <br>
@@ -230,9 +230,9 @@ transition: slide-up
 ---
 <h1 class="text-shadow">정적코드분석 해결</h1>
 
-<img src="image-5.png" width="300">
-<img src="image-6.png" width="500" class="absolute top-60 left-13">
-<img src="image-7.png" width="600" class="absolute top-30 right-8">
+<img src="https://raw.githubusercontent.com/timbel-net/ccaas-dx-guide/main/public/image-5.png" width="300">
+<img src="https://raw.githubusercontent.com/timbel-net/ccaas-dx-guide/main/public/image-6.png" width="500" class="absolute top-60 left-13">
+<img src="https://raw.githubusercontent.com/timbel-net/ccaas-dx-guide/main/public/image-7.png" width="600" class="absolute top-30 right-8">
 
 
 ---
@@ -241,7 +241,7 @@ transition: slide-up
 # 이슈 
 버그, 수정요청 등의 포괄적인 편집 사항
 
-![](image-3.png)
+![](https://raw.githubusercontent.com/timbel-net/ccaas-dx-guide/main/public/image-3.png)
 
 
 ---
