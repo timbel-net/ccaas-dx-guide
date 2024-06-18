@@ -41,7 +41,7 @@ transition: slide-up
 # 코드저장소 gitlab
 <small>각 저장소에는 권한 할당에 의해서 접근이 가능해요.</small>
 
-| 프로젝트 | ID | 저장소 |
+|     |     |     |
 | --- | --- | --- |
 | 상담어드바이저 | ADV | [/ccaas/adv/service-adv](https://haiv.timbel.net:48443/ccaas/adv/service-adv)‎ ‎ ‎ ‎ ‎ [/ccaas/adv/ui-adv](https://haiv.timbel.net:48443/ccaas/adv/ui-adv) |
 | 콜봇 | CB | [/ccaas/cb/service-cb](https://haiv.timbel.net:48443/ccaas/cb/service-cb)‎ ‎ ‎ ‎ ‎ [/ccaas/cb/ui-cb](https://haiv.timbel.net:48443/ccaas/cb/ui-cb) | |

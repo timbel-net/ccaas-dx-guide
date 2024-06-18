@@ -6,6 +6,10 @@ img {
   visibility: hidden;
 }
 
+:not(nav) .slidev-icon-btn {
+  display: 
+}
+
 :not(pre) > code:before, :not(pre) > code:after {
   content: '\00a0';
 }
