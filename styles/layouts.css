@@ -1,0 +1,11 @@
+img {
+  border-radius: .5rem;
+}
+
+#slide-content + .absolute {
+  visibility: hidden;
+}
+
+:not(pre) > code:before, :not(pre) > code:after {
+  content: '\00a0';
+}
